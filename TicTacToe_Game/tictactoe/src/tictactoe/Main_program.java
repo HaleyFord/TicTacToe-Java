@@ -12,7 +12,7 @@ public class Main_program {
         Scanner in = new Scanner(System.in);
         TTT_model game = new TTT_model(); // Create an instance of the Tic-Tac-Toe game model
 
-        System.out.println("Tic-Tac-Toe!");
+        System.out.println("Tic-Tac-Toe! Let's get started");
         System.out.println("Current board layout:");
         game.printPanel(); // Display the initial game board
 
